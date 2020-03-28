@@ -79,6 +79,7 @@ social-network-links:
   facebook: filipebraida
   github: filipebraida
   twitter: filipebraida
+  calendly: "filipebraida/meeting"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -91,6 +92,17 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+
+footer-links-active:
+  rss: false
+  facebook: true
+  email: true
+  twitter: true
+  github: true
+  linkedin: false
+  stackoverflow: true
+  calendly: true
+  telephone: false
 
 # Select which share links to show in posts
 share-links-active:

@@ -90,3 +90,8 @@ yelp:
   name: "Yelp"
   urlTemplate: "https://{value}.yelp.com"
   icon: "fab fa-yelp"
+
+calendly:
+  name: "Calendly"
+  urlTemplate: "https://calendly.com/{value}"
+  icon: "far fa-calendar-alt"
