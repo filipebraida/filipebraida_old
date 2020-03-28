@@ -28,7 +28,9 @@ navbar-links:
     - Programação Web: "/pages/courses/web"
     - Sistemas de Recomendação: "/pages/courses/recsys"
   Pesquisa: "/pages/research"
-  Orientações: "/pages/orientacoes"
+  Orientações: 
+    - Graduação: "/pages/graduacao"
+    - Pós-graduação: "/pages/posgraduacao"
   Projetos: "/pages/projects"
 
 # Image to show in the navigation bar - image must be a square (width = height)
