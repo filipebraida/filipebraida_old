@@ -2,7 +2,7 @@ filipebraida.github.io
 
     Copyright 2020 Filipe Braida. Licensed under the MIT license.
 
-Filipe Braida's website https://filipe.braida.com.br
+Filipe Braida's website http://filipe.braida.com.br
 
 The theme for this website has been open-sourced as Beautiful Jekyll.
 
