@@ -15,7 +15,7 @@ Os temas seguem duas grandes linhas de pesquisa. A primeira, sendo a principal, 
 - Sistemas de Recomendação
 - Mineração de Dados
 
-Uma outra área que possuo interesse é sobre **Projetos de Sistemas** onde o aluno irá realizar estudos sobre arquitetura, projeto e modelagem de sistemas. Sendo que, nesta área, o objetivo não é direcionada para a construção de sistemas, e sim, avaliar e prosperar modernas arquiteturas que estão sendo utilizadas no mercado ou na litetura.
+Uma outra área que possuo interesse é sobre **Projetos de Sistemas** onde o aluno irá realizar estudos sobre arquitetura, projeto e modelagem de sistemas. Sendo que, nesta área, o objetivo não é direcionada para a construção de sistemas, e sim, avaliar e prosperar modernas arquiteturas que estão sendo utilizadas no mercado ou na literatura.
 
 Apesar dessas minhas preferências, o aluno poderá trazer outros temas. Contudo, eles deverão ser avaliados pois precisarei possuir algum interesse direto ou indireto no assunto. Desta forma, a escolha do tema é um acordo entre o orientador e o(s) aluno(s). Como o período médio de desenvolvimento do trabalho é de **um ano**, então é aconselhado que os alunos possuam um real interesse no tema e, assim, o trabalho consiga ser desenvolvido de forma mais agradável.
 
