@@ -31,11 +31,12 @@ O desenvolvimento do projeto final pode ser dividido em **seis etapas**:
 
 Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas possuiram exatamente essas etapas de forma fechadas e não necessariamente nesse ordem estipulada. Existem alguns autores que definem a ordem, mas o objetivo aqui é ser simples para o aluno entender o processo de pesquisa de modo geral pois ela irá ajudar na condução do desenvolvimento do projeto. Caso queira se aprofundar, o aluno poderá ler o livro "_Writing for Computer Science_" [1]. Cada etapa será detalhada abaixo.
 
-- **Escolha do tema**:
+- **Escolha do tema**: Essa etapa, diferentemente da pós-graduação, é feita de forma livre. Essa etapa virá da experiência dos alunos durante o curso, principalmente através das matérias cursadas. Como a duração do desenvolvimento do projeto final é de um ano, torna-se inviável conhecer superficialmente a área e desenvolver o trabalho durante esse prazo. Desta forma, é necessário que o aluno faça certas matérias específicas para poder escolher o tema. Por exemplo, se o aluno deseja seguir a área de Sistemas de Recomendação, ele **deverá** cursar a optativa *Introdução à Sistemas de Recomendação*. Inclusive, o projeto final poderá ser uma extensão do trabalho final da cadeira, otimizando bastante o processo de desenvolvimento;
 
-- **Revisão Bibliográfica**: Levantamento da literatura realizando uma pesquisa exploratória sobre a área;
+- **Revisão Bibliográfica**: Neste momento, o aluno irá estudar a literatura e realizar uma pesquisa exploratória sobre a área. Ela já irá parcialmente acontecer durante as matérias, mas poderá ser utilizada durante esse ano. Principalmente, para relembrar e fortalecer os principais conceitos da área e facilitar a escrita do texto científico. É aconselhável que o aluno leia não só os livros e artigos bases e sim outros projetos finais, dissertações e teses. Por consequência, ele irá começar a entender os padrões de escritas de textos científicos e irá ajudar bastante no desenvolvimento do seu texto;
 
-- **Leitura da literatura não específica**: Levantamento da literatura realizando uma uma pesquisa específica para encontrar as contribuições da área;
+- **Leitura da literatura não específica**: Uma fase importante na metodologia científica é a etapa de comparação da sua proposta com as outras da literatura. Assim, 
+- Levantamento da literatura realizando uma uma pesquisa específica para encontrar as contribuições da área;
 
 - **Leitura da literatura específica**:
 
@@ -68,6 +69,8 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 - Daniel Souza Avellar. Plugin de recomendação para e-commerce. Universidade Federal Rural do Rio de Janeiro.
 
 - Livia de Azevedo. Análise de depressão no Twitter. Universidade Federal Rural do Rio de Janeiro.
+
+- Beatriz Lima e Ingrid Costa. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
 
 ### Concluídas
 
