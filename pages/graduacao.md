@@ -51,7 +51,7 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 ### Desenvolvimento do Trabalho
 
-## Orietações
+## Orientações
 
 ### Andamento
 
