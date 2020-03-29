@@ -33,13 +33,13 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 - **Escolha do tema**:
 
-- **Revisão Bibliográfica**: Levantamento da literatura realizando uma pesquisa exploratória sobre a área de Recomendação
+- **Revisão Bibliográfica**: Levantamento da literatura realizando uma pesquisa exploratória sobre a área;
 
-- **Leitura da literatura não específica**: Levantamento da literatura realizando uma uma pes-quisa específica para encontrar as contribuições da área de Aprendizado de Máquina e Processamento de Linguagem Natural dentro da área de Recomendação;
+- **Leitura da literatura não específica**: Levantamento da literatura realizando uma uma pesquisa específica para encontrar as contribuições da área;
 
 - **Leitura da literatura específica**:
 
-- **Elaboração da proposta**: Estudo das possíveis contribuições, tendo em conta a literatu-ra pesquisada dos passos anteriores, que possam ser exploradas. Por fim, elaborando uma proposta com uma contribuição para área;
+- **Elaboração da proposta**: Estudo das possíveis contribuições, tendo em conta a literatura pesquisada dos passos anteriores, que possam ser exploradas. Por fim, elaborando uma proposta com uma contribuição para área;
 
 - **Desenvolvimento**:
 
@@ -91,7 +91,8 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 O <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/filipebraida?background_color=000000&text_color=ffffff'});return false;">agendamento</a> deverá ser feito através da ferramenta _calendly_. Existe duas opções de orientações: presenciais e remotas.
 
-A orientação presencial é utilizada para as primeiras reuniões ou quando existe a necessidade de explicações sobre o tema mais elaborados. As demais, principalmente as de acompanhamento, podem ser remotas. De modo geral, eu utilizo a ferramenta da _Google_ chamada _hangouts_.
+A orientação presencial é utilizada para as primeiras reuniões ou quando existe a necessidade de explicações sobre o tema mais elaborados. As demais, principalmente as de acompanhamento, podem ser remotas. De modo geral, eu utilizo a ferramenta da _Google_ chamada _hangouts_ ou 
+a ferramenta de video conferência chamada _Zoom_.
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
