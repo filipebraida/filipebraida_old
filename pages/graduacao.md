@@ -63,7 +63,7 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 - **Escolha do tema**: Essa etapa, diferentemente da pós-graduação, é feita de forma livre. Essa etapa virá da experiência dos alunos durante o curso, principalmente através das matérias cursadas. Como a duração do desenvolvimento do projeto final é de um ano, torna-se inviável conhecer superficialmente a área e desenvolver o trabalho durante esse prazo. Desta forma, é necessário que o aluno faça certas matérias específicas para poder escolher o tema. Por exemplo, se o aluno deseja seguir a área de Sistemas de Recomendação, ele **deverá** cursar a optativa *Introdução à Sistemas de Recomendação*. Inclusive, o projeto final poderá ser uma extensão do trabalho final da cadeira, otimizando bastante o processo de desenvolvimento;
 
-- **Revisão Bibliográfica**: Neste momento, o aluno irá estudar a literatura e realizar uma pesquisa exploratória sobre a área. Ela já irá parcialmente acontecer durante as matérias, mas poderá ser utilizada durante esse ano. Principalmente para relembrar e fortalecer os principais conceitos da área e facilitar a escrita do texto científico. É aconselhável que o aluno leia não só os livros e artigos bases, e sim outros projetos finais, dissertações e teses. Por consequência, ele irá começar a entender os padrões de escritas de textos científicos e irá ajudar bastante no desenvolvimento do seu texto;
+- **Revisão Bibliográfica**: Neste momento, o aluno irá estudar a literatura e realizar uma pesquisa exploratória sobre a área. Ela já irá parcialmente acontecer durante as matérias, mas poderá ser utilizada durante esse ano. Principalmente para relembrar e fortalecer os principais conceitos da área e facilitar a escrita do texto científico. É aconselhável que o aluno leia não só os livros e artigos bases, e sim outros [projetos finais](#projetosfinais), dissertações e teses. Por consequência, ele irá começar a entender os padrões de escritas de textos científicos e irá ajudar bastante no desenvolvimento do seu texto;
 
 - **Leitura da literatura específica**: Uma fase importante na metodologia científica é a etapa de comparação da sua proposta com as outras da literatura. Assim, o aluno levantará quais são os trabalhos e como eles resolvem o mesmo problema que esteja atacando. Dependendo, poderão ser incluídos trabalhos semelhantes, ou seja, que resolvam problemas similares ou correlatos, melhorando sua comparação.
 
@@ -75,9 +75,13 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 ### Texto Acadêmico
 
-Utilizar o template do meu [repositório](https://github.com/filipebraida/monografia-latex) no GitHub. Primeiramente, deverá ser feito um *fork* do projeto e após poderá começar a escrita do projeto. A minha recomendação é utilizar o editor online [OverLeaf](https://www.overleaf.com). Essa ferramente é um editor online de LaTeX, não precisando configurar o ambiente para compilar o projeto. Além disso, ele possui integração com o GitHub, facilitando mais o desenvolvimento.
+O aluno deverá criar um relatório técnico que será entregue para uma banca julgadora para avaliar o seu trabalho. Esse relatório será constituído por uma monografia em que irá explicar a área, o problema, a solução e como ela se comportou em comparado as outras soluções da literatura. O aluno **deverá** escrever utilizando a ferramenta chamada LaTeX. Essa ferramente é um sistema de elaboração de texto em que não precisa se preocupar com a formatação, diferentemente dos editores WYSIWYG como Microsoft Word, LibreOffice Writer e Apple Pages.
 
-### Desenvolvimento do Trabalho
+O aluno deverá utilizar o template do meu [repositório](https://github.com/filipebraida/monografia-latex) no GitHub. Primeiramente, deverá ser feito um *fork* do projeto e após poderá começar a escrita do projeto. A minha recomendação é utilizar o editor online [OverLeaf](https://www.overleaf.com). Essa ferramente é um editor online de LaTeX, não precisando configurar o ambiente para compilar o projeto. Além disso, ele possui integração com o GitHub, facilitando mais o desenvolvimento.
+
+Neste template contém todo projeto configurado e, além disso, possui uma breve explicação do que escrever em cada capítulo e alguns exemplos de código em LaTeX para facilitar o seu uso. Em alguns posts deste site, eu explico como é a escrita científica. Segue abaixo os materiais:
+
+- Em breve.
 
 ## Orientações {#orientacoes}
 
@@ -101,7 +105,7 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Beatriz Lima e Ingrid Costa. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
 
-### Concluídas
+### Concluídas {#projetosfinais}
 
 - Vinícius Gomes S. Ayres e Paulo Francisco Da S. Freitas. Técnicas Neurais para Filtragem Colaborativ. 2019. Universidade Federal Rural do Rio de Janeiro. 
 
