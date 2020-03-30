@@ -28,6 +28,28 @@ Uma outra área que possuo interesse é sobre **Projetos de Sistemas** onde o al
 
 Apesar dessas minhas preferências, o aluno poderá trazer outros temas. Contudo, eles deverão ser avaliados pois precisarei possuir algum interesse direto ou indireto no assunto. Desta forma, a escolha do tema é um acordo entre o orientador e o(s) aluno(s). Como o período médio de desenvolvimento do trabalho é de **um ano**, então é aconselhado que os alunos possuam um real interesse no tema e, assim, o trabalho consiga ser desenvolvido de forma mais agradável.
 
+O aluno deverá cursar certas disciplinas para a elaboração do projeto final em um determinado tema. Essas disciplinas irão ajudá-lo a entender a área como o todo e, desta forma, otimizar o seu tempo durante a elaboração do projeto final. Essas disciplinas serão ofertadas durante o curso como obrigatórias e optativas. Poderá existir exceções. Segue a lista de disciplinas necessárias do PPC de 2020:
+
+- Sistemas de Recomendação:
+  - *Inteligência Artificial*
+  - **Aprendizado de Máquina**
+  - **Introdução à Sistemas de Recomendação**
+  
+- Processamento de Linguagem Natural:
+  - *Inteligência Artificial*
+  - **Aprendizado de Máquina**
+  - **Processamento de Linguagem Natural**
+  
+- Mineração de Dados:
+  - *Inteligência Artificial*
+  - **Mineração de Dados** ou **Aprendizado de Máquina**
+
+- Projeto de Sistemas:
+  - **Programação Web**
+  - **Projeto de Sistemas**
+
+Legenda: **Negrito** - obrigatórias; *Itálico* - optativas.
+
 ## Primeiros Passos {#primeirospassos}
 
 O desenvolvimento do projeto final pode ser dividido em **cinco etapas**:
