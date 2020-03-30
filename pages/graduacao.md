@@ -10,9 +10,10 @@ O objetivo do projeto final é avaliar se o aluno, com o conhecimento adquirido 
 
 1. [Temas](#temas)
 2. [Primeiros Passos](#primeirospassos)
-2. [Orientações](#orientacoes)
-3. [Agendamento da Orientações](#agendamento)
-4. [Referências](#referencias)
+3. [Texto Acadêmico](#texto)
+4. [Orientações](#orientacoes)
+5. [Agendamento da Orientação](#agendamento)
+6. [Referências](#referencias)
 
 ## Temas {#temas}
 
@@ -73,7 +74,7 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 - **Desenvolvimento do texto científico**: Ao final, o aluno irá relatar todos os demais passos em um texto que será apresentado para a banca. Em outra seção, será discutido melhor sobre a construção desse relatório técnico;
 
-### Texto Acadêmico
+## Texto Acadêmico {#texto}
 
 O aluno deverá criar um relatório técnico que será entregue para uma banca julgadora para avaliar o seu trabalho. Esse relatório será constituído por uma monografia em que irá explicar a área, o problema, a solução e como ela se comportou em comparado as outras soluções da literatura. O aluno **deverá** escrever utilizando a ferramenta chamada LaTeX. Essa ferramente é um sistema de elaboração de texto em que não precisa se preocupar com a formatação, diferentemente dos editores WYSIWYG como Microsoft Word, LibreOffice Writer e Apple Pages.
 
@@ -123,7 +124,7 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Fabio Perrotta de Andrade e Pedro Henrique Conilh de Beyssa. TirinhaZ - Um Sistema de Recomendação de Tirinhas. 2013. Universidade Federal do Rio de Janeiro.
 
-## Agendamento da Orientações  {#agendamento}
+## Agendamento da Orientação  {#agendamento}
 
 O <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/filipebraida?background_color=000000&text_color=ffffff'});return false;">agendamento</a> deverá ser feito através da ferramenta _calendly_. Existe duas opções de orientações: presenciais e remotas.
 
