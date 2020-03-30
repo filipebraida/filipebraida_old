@@ -21,32 +21,26 @@ Apesar dessas minhas preferências, o aluno poderá trazer outros temas. Contudo
 
 ## Primeiros Passos
 
-O desenvolvimento do projeto final pode ser dividido em **seis etapas**:
+O desenvolvimento do projeto final pode ser dividido em **cinco etapas**:
 - Escolha do tema
-- Leitura da literatura não específica
+- Revisão Bibliográfica
 - Leitura da literatura específica
 - Elaboração da proposta
-- Experimentação
 - Desenvolvimento do texto científico
 
 Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas possuiram exatamente essas etapas de forma fechadas e não necessariamente nesse ordem estipulada. Existem alguns autores que definem a ordem, mas o objetivo aqui é ser simples para o aluno entender o processo de pesquisa de modo geral pois ela irá ajudar na condução do desenvolvimento do projeto. Caso queira se aprofundar, o aluno poderá ler o livro "_Writing for Computer Science_" [1]. Cada etapa será detalhada abaixo.
 
 - **Escolha do tema**: Essa etapa, diferentemente da pós-graduação, é feita de forma livre. Essa etapa virá da experiência dos alunos durante o curso, principalmente através das matérias cursadas. Como a duração do desenvolvimento do projeto final é de um ano, torna-se inviável conhecer superficialmente a área e desenvolver o trabalho durante esse prazo. Desta forma, é necessário que o aluno faça certas matérias específicas para poder escolher o tema. Por exemplo, se o aluno deseja seguir a área de Sistemas de Recomendação, ele **deverá** cursar a optativa *Introdução à Sistemas de Recomendação*. Inclusive, o projeto final poderá ser uma extensão do trabalho final da cadeira, otimizando bastante o processo de desenvolvimento;
 
-- **Revisão Bibliográfica**: Neste momento, o aluno irá estudar a literatura e realizar uma pesquisa exploratória sobre a área. Ela já irá parcialmente acontecer durante as matérias, mas poderá ser utilizada durante esse ano. Principalmente, para relembrar e fortalecer os principais conceitos da área e facilitar a escrita do texto científico. É aconselhável que o aluno leia não só os livros e artigos bases e sim outros projetos finais, dissertações e teses. Por consequência, ele irá começar a entender os padrões de escritas de textos científicos e irá ajudar bastante no desenvolvimento do seu texto;
+- **Revisão Bibliográfica**: Neste momento, o aluno irá estudar a literatura e realizar uma pesquisa exploratória sobre a área. Ela já irá parcialmente acontecer durante as matérias, mas poderá ser utilizada durante esse ano. Principalmente para relembrar e fortalecer os principais conceitos da área e facilitar a escrita do texto científico. É aconselhável que o aluno leia não só os livros e artigos bases, e sim outros projetos finais, dissertações e teses. Por consequência, ele irá começar a entender os padrões de escritas de textos científicos e irá ajudar bastante no desenvolvimento do seu texto;
 
-- **Leitura da literatura não específica**: Uma fase importante na metodologia científica é a etapa de comparação da sua proposta com as outras da literatura. Assim, 
-- Levantamento da literatura realizando uma uma pesquisa específica para encontrar as contribuições da área;
+- **Leitura da literatura específica**: Uma fase importante na metodologia científica é a etapa de comparação da sua proposta com as outras da literatura. Assim, o aluno levantará quais são os trabalhos e como eles resolvem o mesmo problema que esteja atacando. Dependendo, poderão ser incluídos trabalhos semelhantes, ou seja, que resolvam problemas similares ou correlatos, melhorando sua comparação.
 
-- **Leitura da literatura específica**:
+- **Elaboração da proposta**: Estudo das possíveis contribuições, tendo em conta a literatura pesquisada dos passos anteriores, que possam ser exploradas. Por fim, elaborando uma proposta com uma contribuição para área. No caso do projeto final, essa contribuição não precisará ser inovadora, única ou melhor que todos as abordagens levantadas na etapa anterior. O importante é a capacidade do aluno desenvolver, utilizando a metodologia científica, a resolução de um problema computacional. Essa etapa é crucial, pois ela irá determinar todos as etapas seguintes e, ela bem feita, otimizará o tempo do desenvolvimento em si da proposta. Nela está contida também a modelagem de como resolver o problema e a definição de quais ferramentas serão utilizadas;
 
-- **Elaboração da proposta**: Estudo das possíveis contribuições, tendo em conta a literatura pesquisada dos passos anteriores, que possam ser exploradas. Por fim, elaborando uma proposta com uma contribuição para área;
+- **Desenvolvimento**: Essa etapa é autoexplicativa e irá ser o desenvolvimento em si da proposta. Em alguns casos, também haverá a necessidade de desenvolver, quando não disponíveis, as outras soluções da literatura. Desta forma, o aluno poderá conseguirá comparar sua solulção com as demais;
 
-- **Desenvolvimento**:
-
-- **Experimentação**: 
-
-- **Desenvolvimento do texto científico**:
+- **Desenvolvimento do texto científico**: Ao final, o aluno irá relatar todos os demais passos em um texto que será apresentado para a banca. Em outra seção, será discutido melhor sobre a construção desse relatório técnico;
 
 ### Texto Acadêmico
 
