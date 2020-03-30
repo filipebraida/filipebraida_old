@@ -81,6 +81,8 @@ Utilizar o template do meu [repositório](https://github.com/filipebraida/monogr
 
 ## Orientações {#orientacoes}
 
+Nas próximas subseções serão listados os alunos com o projeto final em andamento e concluídos com os seus respectivos trabalhos.
+
 ### Andamento
 
 - Victor Diniz A. Andrade. Desenvolvimento de um modelo para detecção de preconceitos em textos. Universidade Federal Rural do Rio de Janeiro.
