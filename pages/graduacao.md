@@ -6,7 +6,16 @@ subtitle: Informações gerais sobre as orientações da graduação
 
 O objetivo do projeto final é avaliar se o aluno, com o conhecimento adquirido durante o curso, possui a capaz de solucionar um problema utilizando técnicas computacionais. Durante o desenvolvimento da solução, o aluno deverá ser capaz de construir uma metodologia científica para validar sua solução e, assim, avaliá-la e compará-la com os métodos tradicionais da literatura.
 
-## Temas
+## Sumário
+
+1. [Temas](#temas)
+2. [Primeiros Passos](#primeirospassos)
+2. [Orientações](#orientacoes)
+3. [Agendamento da Orientações](#agendamento)
+4. [Referências](#referencias)
+
+## Temas {#temas}
+
 
 No caso dos alunos de graduação, os temas seguem a minha linha de pesquisa, mas, de preferência, trabalhos voltados para a aplicação. Entre ela, a preferência é para aplicações nas quais possuam um impacto dentro da sociedade, mostrando assim que o conhecimento acumulado, pode e deve ser utilizado para o bem estar das pessoas.
 
@@ -19,7 +28,7 @@ Uma outra área que possuo interesse é sobre **Projetos de Sistemas** onde o al
 
 Apesar dessas minhas preferências, o aluno poderá trazer outros temas. Contudo, eles deverão ser avaliados pois precisarei possuir algum interesse direto ou indireto no assunto. Desta forma, a escolha do tema é um acordo entre o orientador e o(s) aluno(s). Como o período médio de desenvolvimento do trabalho é de **um ano**, então é aconselhado que os alunos possuam um real interesse no tema e, assim, o trabalho consiga ser desenvolvido de forma mais agradável.
 
-## Primeiros Passos
+## Primeiros Passos {#primeirospassos}
 
 O desenvolvimento do projeto final pode ser dividido em **cinco etapas**:
 - Escolha do tema
@@ -28,7 +37,7 @@ O desenvolvimento do projeto final pode ser dividido em **cinco etapas**:
 - Elaboração da proposta
 - Desenvolvimento do texto científico
 
-Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas possuiram exatamente essas etapas de forma fechadas e não necessariamente nesse ordem estipulada. Existem alguns autores que definem a ordem, mas o objetivo aqui é ser simples para o aluno entender o processo de pesquisa de modo geral pois ela irá ajudar na condução do desenvolvimento do projeto. Caso queira se aprofundar, o aluno poderá ler o livro "_Writing for Computer Science_" [1]. Cada etapa será detalhada abaixo.
+Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas possuiram exatamente essas etapas de forma fechadas e não necessariamente nesse ordem estipulada. Existem alguns autores que definem a ordem, mas o objetivo aqui é ser simples para o aluno entender o processo de pesquisa de modo geral pois ela irá ajudar na condução do desenvolvimento do projeto. Caso queira se aprofundar, o aluno poderá ler o livro "_Writing for Computer Science_" [[1]](#1). Cada etapa será detalhada abaixo.
 
 - **Escolha do tema**: Essa etapa, diferentemente da pós-graduação, é feita de forma livre. Essa etapa virá da experiência dos alunos durante o curso, principalmente através das matérias cursadas. Como a duração do desenvolvimento do projeto final é de um ano, torna-se inviável conhecer superficialmente a área e desenvolver o trabalho durante esse prazo. Desta forma, é necessário que o aluno faça certas matérias específicas para poder escolher o tema. Por exemplo, se o aluno deseja seguir a área de Sistemas de Recomendação, ele **deverá** cursar a optativa *Introdução à Sistemas de Recomendação*. Inclusive, o projeto final poderá ser uma extensão do trabalho final da cadeira, otimizando bastante o processo de desenvolvimento;
 
@@ -46,7 +55,7 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 ### Desenvolvimento do Trabalho
 
-## Orientações
+## Orientações {#orientacoes}
 
 ### Andamento
 
@@ -84,7 +93,7 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 - Fabio Perrotta de Andrade e Pedro Henrique Conilh de Beyssa. TirinhaZ - Um Sistema de Recomendação de Tirinhas. 2013. Universidade Federal do Rio de Janeiro.
 
-### Agendamento da Orientações
+## Agendamento da Orientações  {#agendamento}
 
 O <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/filipebraida?background_color=000000&text_color=ffffff'});return false;">agendamento</a> deverá ser feito através da ferramenta _calendly_. Existe duas opções de orientações: presenciais e remotas.
 
@@ -94,6 +103,6 @@ a ferramenta de video conferência chamada _Zoom_.
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 
-## Referências
+## Referências {#referencias}
 
-[1] Zobel, Justin. Writing for computer science. 3rd ed. New York NY: Springer, 2014.
+<a id="1">[1]</a> Zobel, Justin. Writing for computer science. 3rd ed. New York NY: Springer, 2014.
