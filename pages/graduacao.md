@@ -75,6 +75,8 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 ### Texto Acadêmico
 
+Utilizar o template do meu [repositório](https://github.com/filipebraida/monografia-latex) no GitHub. Primeiramente, deverá ser feito um *fork* do projeto e após poderá começar a escrita do projeto. A minha recomendação é utilizar o editor online [OverLeaf](https://www.overleaf.com). Essa ferramente é um editor online de LaTeX, não precisando configurar o ambiente para compilar o projeto. Além disso, ele possui integração com o GitHub, facilitando mais o desenvolvimento.
+
 ### Desenvolvimento do Trabalho
 
 ## Orientações {#orientacoes}
