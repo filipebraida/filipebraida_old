@@ -22,3 +22,7 @@ subtitle: Informações gerais sobre projetos de pesquisa
 - Desenvolvimento de um sistema inteligente: o caso xRayCovid-19
   - Ciclo de Seminários Online do IC/UFF (2020)
   - Video: [link](https://www.youtube.com/watch?v=0AbGrwFdgx0)
+  
+- Explicando a Ciência da Computação para Técnicos em Eletrônica
+  - Ciclo de Seminários Online do CEFET/RJ - Curso Técnico de Eletrônica (2020)
+  - Material: [download](https://bit.ly/2XcrmaD)
