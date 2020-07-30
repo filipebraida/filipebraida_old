@@ -26,3 +26,4 @@ subtitle: Informações gerais sobre projetos de pesquisa
 - Explicando a Ciência da Computação para Técnicos em Eletrônica
   - Ciclo de Seminários Online do CEFET/RJ - Curso Técnico de Eletrônica (2020)
   - Material: [download](https://bit.ly/2XcrmaD)
+  - Video: [link](https://www.youtube.com/watch?v=KidJn1GApQc)
