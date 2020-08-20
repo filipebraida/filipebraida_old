@@ -60,7 +60,7 @@ O desenvolvimento do projeto final pode ser dividido em **cinco etapas**:
 - Elaboração da proposta
 - Desenvolvimento do texto científico
 
-Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas possuiram exatamente essas etapas de forma fechadas e não necessariamente nesse ordem estipulada. Existem alguns autores que definem a ordem, mas o objetivo aqui é ser simples para o aluno entender o processo de pesquisa de modo geral pois ela irá ajudar na condução do desenvolvimento do projeto. Caso queira se aprofundar, o aluno poderá ler o livro "_Writing for Computer Science_" [[1]](#1). Cada etapa será detalhada abaixo.
+Essas etapas foram estipuladas por mim, não necessariamente todas as pesquisas possuírão exatamente essas etapas de forma fechadas e não necessariamente nesse ordem estipulada. Existem alguns autores que definem a ordem, mas o objetivo aqui é ser simples para o aluno entender o processo de pesquisa de modo geral pois ela irá ajudar na condução do desenvolvimento do projeto. Caso queira se aprofundar, o aluno poderá ler o livro "_Writing for Computer Science_" [[1]](#1). Cada etapa será detalhada abaixo.
 
 - **Escolha do tema**: Essa etapa, diferentemente da pós-graduação, é feita de forma livre. Essa etapa virá da experiência dos alunos durante o curso, principalmente através das matérias cursadas. Como a duração do desenvolvimento do projeto final é de um ano, torna-se inviável conhecer superficialmente a área e desenvolver o trabalho durante esse prazo. Desta forma, é necessário que o aluno faça certas matérias específicas para poder escolher o tema. Por exemplo, se o aluno deseja seguir a área de Sistemas de Recomendação, ele **deverá** cursar a optativa *Introdução à Sistemas de Recomendação*. Inclusive, o projeto final poderá ser uma extensão do trabalho final da cadeira, otimizando bastante o processo de desenvolvimento;
 
@@ -68,9 +68,9 @@ Essas etapas foram estipuladas por mim e não necessariamente todas as pesquisas
 
 - **Leitura da literatura específica**: Uma fase importante na metodologia científica é a etapa de comparação da sua proposta com as outras da literatura. Assim, o aluno levantará quais são os trabalhos e como eles resolvem o mesmo problema que esteja atacando. Dependendo, poderão ser incluídos trabalhos semelhantes, ou seja, que resolvam problemas similares ou correlatos, melhorando sua comparação.
 
-- **Elaboração da proposta**: Estudo das possíveis contribuições, tendo em conta a literatura pesquisada dos passos anteriores, que possam ser exploradas. Por fim, elaborando uma proposta com uma contribuição para área. No caso do projeto final, essa contribuição não precisará ser inovadora, única ou melhor que todos as abordagens levantadas na etapa anterior. O importante é a capacidade do aluno desenvolver, utilizando a metodologia científica, a resolução de um problema computacional. Essa etapa é crucial, pois ela irá determinar todos as etapas seguintes e, ela bem feita, otimizará o tempo do desenvolvimento em si da proposta. Nela está contida também a modelagem de como resolver o problema e a definição de quais ferramentas serão utilizadas;
+- **Elaboração da proposta**: Estudo das possíveis contribuições, tendo em conta a literatura pesquisada dos passos anteriores, que possam ser exploradas. Por fim, elaborando uma proposta com uma contribuição para a área. No caso do projeto final, essa contribuição não precisará ser inovadora, única ou melhor que todos as abordagens levantadas na etapa anterior. O importante é a capacidade do aluno desenvolver, utilizando a metodologia científica, a resolução de um problema computacional. Essa etapa é crucial, pois ela irá determinar todos as etapas seguintes e, ela bem feita, otimizará o tempo do desenvolvimento em si da proposta. Nela está contida também a modelagem de como resolver o problema e a definição de quais ferramentas serão utilizadas;
 
-- **Desenvolvimento**: Essa etapa é autoexplicativa e irá ser o desenvolvimento em si da proposta. Em alguns casos, também haverá a necessidade de desenvolver, quando não disponíveis, as outras soluções da literatura. Desta forma, o aluno poderá conseguirá comparar sua solulção com as demais;
+- **Desenvolvimento**: Essa etapa é autoexplicativa e irá ser o desenvolvimento em si da proposta. Em alguns casos, também haverá a necessidade de desenvolver, quando não disponíveis, as outras soluções da literatura. Desta forma, o aluno poderá conseguirá comparar sua solução com as demais;
 
 - **Desenvolvimento do texto científico**: Ao final, o aluno irá relatar todos os demais passos em um texto que será apresentado para a banca. Em outra seção, será discutido melhor sobre a construção desse relatório técnico;
 
@@ -129,7 +129,7 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 O <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/filipebraida?background_color=000000&text_color=ffffff'});return false;">agendamento</a> deverá ser feito através da ferramenta _calendly_. Existe duas opções de orientações: presenciais e remotas.
 
 A orientação presencial é utilizada para as primeiras reuniões ou quando existe a necessidade de explicações sobre o tema mais elaborados. As demais, principalmente as de acompanhamento, podem ser remotas. De modo geral, eu utilizo a ferramenta da _Google_ chamada _hangouts_ ou 
-a ferramenta de video conferência chamada _Zoom_.
+a ferramenta da RNP. A comunicação será feita através do slack do ATISLabs.
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
