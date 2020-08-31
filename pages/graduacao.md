@@ -82,7 +82,7 @@ O aluno deverá utilizar o template do meu [repositório](https://github.com/fil
 
 Neste template contém todo projeto configurado e, além disso, possui uma breve explicação do que escrever em cada capítulo e alguns exemplos de código em LaTeX para facilitar o seu uso. Em alguns posts deste site, eu explico como é a escrita científica. Segue abaixo os materiais:
 
-- Em breve.
+- [Sobre escrita científica](metodologia/escritacientifca.md)
 
 ## Orientações {#orientacoes}
 
