@@ -20,7 +20,7 @@ url: "https://filipebraida.github.io"
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre: "/pages/aboutme"
+  Sobre: "index"
   Cursos:
     - Linguagens de Programação: "/pages/courses/lp"
     - Compiladores: "/pages/courses/compiladores"
@@ -74,7 +74,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  #rss: true
   email: "filipebraida@gmail.com"
   facebook: filipebraida
   github: filipebraida
@@ -198,6 +198,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+      ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
 
 # Use tags index page and make tags on each post clickable
 link-tags: true

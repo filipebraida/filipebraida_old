@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: Curriculum Vitae
+use-site-title: true
 ---
 
 ### Education:
