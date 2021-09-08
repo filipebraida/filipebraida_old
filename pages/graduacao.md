@@ -90,25 +90,31 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 ### Andamento
 
-- Victor Diniz A. Andrade. Desenvolvimento de um modelo para detecção de preconceitos em textos. Universidade Federal Rural do Rio de Janeiro.
-
 - Flávio Alves W. R. Rosa e Ivo Santos Paiva. Detecção de bot na rede social Instagram. Universidade Federal Rural do Rio de Janeiro.
-
-- Nelson Antunes L. Neto e Matheus Oliveira de Barros. Detecção de anomalia em vídeo. Universidade Federal Rural do Rio de Janeiro.
-
-- Wilson de O. Mendonca e Lucas Ribeiro Ferreira. Crawler para Whatsapp. Universidade Federal Rural do Rio de Janeiro.
 
 - Fellipe Bravo R. Pimentel e Gabriel de O. Segobia. Um sistema de anotação para texto. Universidade Federal Rural do Rio de Janeiro.
 
 - Daniel Souza Avellar. Plugin de recomendação para e-commerce. Universidade Federal Rural do Rio de Janeiro.
 
-- Livia de Azevedo. Análise de depressão no Twitter. Universidade Federal Rural do Rio de Janeiro.
+- Livia de Azevedo. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
 
 - Beatriz Lima e Ingrid Costa. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
 
+- Paula Rodrigues Madeira e Thalia Ferreira Pinto. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+
+- José Lucas Alves Gomes. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+
 ### Concluídas {#projetosfinais}
 
-- Vinícius Gomes S. Ayres e Paulo Francisco Da S. Freitas. Técnicas Neurais para Filtragem Colaborativ. 2019. Universidade Federal Rural do Rio de Janeiro. 
+- Fábio Júnior Miranda dos Santos e Vitor Gusmão Loura. Super Resolução: um estudo da Enhanced Super Resolution GAN. 2021. Universidade Federal Rural do Rio de Janeiro.
+
+- Victor Diniz A. Andrade. Detecção Automática de Discurso de Ódio em Textos do Twitter. 2021. Universidade Federal Rural do Rio de Janeiro.
+
+- Lucas Ribeiro Ferreira e Wilson de O. Mendonca. WppScrapper: Uma ferramenta para a extração de mensagens do WhatsApp. 2021. Universidade Federal Rural do Rio de Janeiro.
+
+- Nelson Antunes L. Neto e Matheus Oliveira de Barros. Classificação Automática de Anomalias em Vídeos. 2020. Universidade Federal Rural do Rio de Janeiro.
+
+- Vinícius Gomes S. Ayres e Paulo Francisco Da S. Freitas. Técnicas Neurais para Filtragem Colaborativa. 2019. Universidade Federal Rural do Rio de Janeiro. 
 
 - Marcus Vinicius Carvalho Martins. Um modelo para previsão de resultados em partidas do Campeonato Brasileiro de Futebol. 2018. Universidade Federal Rural do Rio de Janeiro. 
 
