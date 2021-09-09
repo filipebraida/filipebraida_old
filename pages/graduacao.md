@@ -108,13 +108,13 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Fábio Júnior Miranda dos Santos e Vitor Gusmão Loura. Super Resolução: um estudo da Enhanced Super Resolution GAN. 2021. Universidade Federal Rural do Rio de Janeiro.
 
-- Victor Diniz A. Andrade. Detecção Automática de Discurso de Ódio em Textos do Twitter. 2021. Universidade Federal Rural do Rio de Janeiro.
+- Victor Diniz A. Andrade. [Detecção Automática de Discurso de Ódio em Textos do Twitter](https://www.cc.ufrrj.br/wp-content/uploads/2018/07/Trabalho_de_Conclus_o_de_Curso___Victor_Diniz1-compactado.pdf). 2021. Universidade Federal Rural do Rio de Janeiro.
 
-- Lucas Ribeiro Ferreira e Wilson de O. Mendonca. WppScrapper: Uma ferramenta para a extração de mensagens do WhatsApp. 2021. Universidade Federal Rural do Rio de Janeiro.
+- Lucas Ribeiro Ferreira e Wilson de O. Mendonca. [WppScrapper: Uma ferramenta para a extração de mensagens do WhatsApp](https://www.cc.ufrrj.br/wp-content/uploads/2021/05/TCC___Lucas_e_Wilson.pdf). 2021. Universidade Federal Rural do Rio de Janeiro.
 
-- Nelson Antunes L. Neto e Matheus Oliveira de Barros. Classificação Automática de Anomalias em Vídeos. 2020. Universidade Federal Rural do Rio de Janeiro.
+- Nelson Antunes L. Neto e Matheus Oliveira de Barros. [Classificação Automática de Anomalias em Vídeos](https://www.cc.ufrrj.br/wp-content/uploads/2018/07/nelson.pdf). 2020. Universidade Federal Rural do Rio de Janeiro.
 
-- Vinícius Gomes S. Ayres e Paulo Francisco Da S. Freitas. Técnicas Neurais para Filtragem Colaborativa. 2019. Universidade Federal Rural do Rio de Janeiro. 
+- Paulo Francisco Da S. Freitas e Vinícius Gomes S. Ayres. [NeuralCF.jl: Modelos Neurais para Filtragem Colaborativa](https://www.cc.ufrrj.br/wp-content/uploads/2020/04/TCC___Vinicius_Ayres_e_Paulo_Francisco-4.pdf). 2019. Universidade Federal Rural do Rio de Janeiro. 
 
 - Marcus Vinicius Carvalho Martins. Um modelo para previsão de resultados em partidas do Campeonato Brasileiro de Futebol. 2018. Universidade Federal Rural do Rio de Janeiro. 
 
