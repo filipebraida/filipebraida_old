@@ -27,6 +27,7 @@ navbar-links:
     - Programação Estruturada: "/pages/courses/pe"
     - Programação Web: "/pages/courses/web"
     - Sistemas de Recomendação: "/pages/courses/recsys"
+    - Modelagem e Projetos de Software: "/pages/courses/modelagem"
   Pesquisa: "/pages/research"
   Orientações: 
     - Graduação: "/pages/graduacao"
