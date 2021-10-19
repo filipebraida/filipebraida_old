@@ -82,7 +82,8 @@ O aluno deverá utilizar o template do meu [repositório](https://github.com/fil
 
 Neste template contém todo projeto configurado e, além disso, possui uma breve explicação do que escrever em cada capítulo e alguns exemplos de código em LaTeX para facilitar o seu uso. Em alguns posts deste site, eu explico como é a escrita científica. Segue abaixo os materiais:
 
-- [Sobre escrita científica](metodologia/escritacientifca.md)
+- [Dicas sobre a escrita científica para a monografia](metodologia/escritacientifca.md)
+- {% include youtube.html id='ZCZGhdyM4c0' name='Escrita Científica (vídeo aula)' %}
 
 ## Orientações {#orientacoes}
 
@@ -134,8 +135,7 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 O <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/filipebraida?background_color=000000&text_color=ffffff'});return false;">agendamento</a> deverá ser feito através da ferramenta _calendly_. Existe duas opções de orientações: presenciais e remotas.
 
-A orientação presencial é utilizada para as primeiras reuniões ou quando existe a necessidade de explicações sobre o tema mais elaborados. As demais, principalmente as de acompanhamento, podem ser remotas. De modo geral, eu utilizo a ferramenta da _Google_ chamada _hangouts_ ou 
-a ferramenta da RNP. A comunicação será feita através do slack do ATISLabs.
+A orientação presencial é utilizada para as primeiras reuniões ou quando existe a necessidade de explicações sobre o tema mais elaborados. As demais, principalmente as de acompanhamento, podem ser remotas. De modo geral, eu utilizo a ferramenta da _Google_ chamada _Meets_. A comunicação será feita através de um servidor no _Discord_ destinado somente para orientações.
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
