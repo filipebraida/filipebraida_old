@@ -169,7 +169,6 @@ Ao final da disciplina o aluno deve:
 
 - SEBESTA, Robert W. Conceitos de Linguagens de Programação. 11. ed. Bookman Editora, 2018.
 
-### Complementares
+### Complementar
 
 - TUCKER, Allen; NOONAN, Robert. Linguagens de Programação - Princípios e Paradigmas. AMGH Editora, 2009.
-- SETHI, Ravi; ULLMAN, Jeffrey D.; MONICA S. LAM. Compiladores: princípios, técnicas e ferramentas. Pearson Addison Wesley, 2008.
