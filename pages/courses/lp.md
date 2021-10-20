@@ -47,9 +47,9 @@ Ao final da disciplina o aluno deve:
 
 ##### Materiais
 
-- {% include youtube.html id='HYtG7oUT62A' name='Razões para estudar Linguagens de Programação' %}
-- {% include youtube.html id='XEqrabmoke0' name='Critérios para Avaliação de Linguagens de Programação' %}
-- {% include youtube.html id='4Zqxsm1x6kY' name='Influências no Projeto de Linguagens e os Métodos de Implementação' %}
+- {% include youtube.html id='HYtG7oUT62A' name='Razões para estudar Linguagens de Programação (video)' %}
+- {% include youtube.html id='XEqrabmoke0' name='Critérios para Avaliação de Linguagens de Programação (video)' %}
+- {% include youtube.html id='4Zqxsm1x6kY' name='Influências no Projeto de Linguagens e os Métodos de Implementação (video)' %}
 
 #### 02. Evolução das LPs {#historia}
 
@@ -71,9 +71,9 @@ Ao final da disciplina o aluno deve:
 
 ##### Materiais
 
-- {% include youtube.html id='j_wCqw_bgZM' name='Questões sobre a Semântica das Variáveis' %}
-- {% include youtube.html id='GnQArD_kjPo' name='Conceito Fundamental de Linguagens de Programação: Vinculação' %}
-- {% include youtube.html id='FxoTrbHEli0' name='Classificação das Variáveis Escalares' %}
+- {% include youtube.html id='j_wCqw_bgZM' name='Questões sobre a Semântica das Variáveis (video)' %}
+- {% include youtube.html id='GnQArD_kjPo' name='Conceito Fundamental de Linguagens de Programação: Vinculação (video)' %}
+- {% include youtube.html id='FxoTrbHEli0' name='Classificação das Variáveis Escalares (video)' %}
 
 #### 04. Tipos de dados {#tipos}
 
@@ -92,12 +92,12 @@ Ao final da disciplina o aluno deve:
 
 ##### Materiais
 
-- {% include youtube.html id='hAC5qSG4OtU' name='Tipos Primitivos: sua Importância e os Principais Tipos' %}
-- {% include youtube.html id='St9Muv9Siq8' name='Tipo Ordinal: Enumerados e Subintervalos' %}
-- {% include youtube.html id='T00IDsjWKtk' name='Detalhando a Sintaxe e a Implementação dos Vetores, Matrizes e Hashs' %}
-- {% include youtube.html id='ZvOh8Gx7fr4' name='Avaliando o projeto de Uniões, Registros, Listas e Tuplas' %}
-- {% include youtube.html id='rLtDAA51600' name='Ponteiros e Referências: Coletor de Lixo, Tombstones e Mark-Sweep' %}
-- {% include youtube.html id='OYllu8UtJ1c' name='Verificação e Equivalência de Tipos' %}
+- {% include youtube.html id='hAC5qSG4OtU' name='Tipos Primitivos: sua Importância e os Principais Tipos (video)' %}
+- {% include youtube.html id='St9Muv9Siq8' name='Tipo Ordinal: Enumerados e Subintervalos (video)' %}
+- {% include youtube.html id='T00IDsjWKtk' name='Detalhando a Sintaxe e a Implementação dos Vetores, Matrizes e Hashs (video)' %}
+- {% include youtube.html id='ZvOh8Gx7fr4' name='Avaliando o projeto de Uniões, Registros, Listas e Tuplas (video)' %}
+- {% include youtube.html id='rLtDAA51600' name='Ponteiros e Referências: Coletor de Lixo, Tombstones e Mark-Sweep (video)' %}
+- {% include youtube.html id='OYllu8UtJ1c' name='Verificação e Equivalência de Tipos (video)' %}
 
 #### 05. Expressões e sentença de atribuição {#expressao}
 
