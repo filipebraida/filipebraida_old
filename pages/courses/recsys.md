@@ -65,3 +65,9 @@ Ao final da disciplina o aluno deve:
 ##### Conteúdo
 
 - Em breve
+
+## Referência Bibliográfica
+
+### Principal
+
+- Ricci, F., Rokach, L., Shapira, B., Kantor, P. B. Recommender Systems Handbook, Springer-Verlag, 2010.

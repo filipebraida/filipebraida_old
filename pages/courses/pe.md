@@ -190,3 +190,9 @@ Ao final da disciplina o aluno deve:
 - Memory Leak
 - Dangling Pointer
 - Passagem de Parâmetros
+
+## Referência Bibliográfica
+
+### Principal
+
+- DEITEL, H.M. E Deitel P.J. "Como Programar em C", 2a edição. LTC, Rio de Janeiro, 1994.
