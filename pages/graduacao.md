@@ -93,21 +93,29 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Flávio Alves W. R. Rosa e Ivo Santos Paiva. Detecção de bot na rede social Instagram. Universidade Federal Rural do Rio de Janeiro.
 
-- Fellipe Bravo R. Pimentel e Gabriel de O. Segobia. Um sistema de anotação para texto. Universidade Federal Rural do Rio de Janeiro.
+- Fellipe Bravo R. Pimentel e Gabriel de O. Segobia. Sistema de Gerenciamento de Anotações. Universidade Federal Rural do Rio de Janeiro.
 
-- Daniel Souza Avellar. Plugin de recomendação para e-commerce. Universidade Federal Rural do Rio de Janeiro.
+- Daniel Souza Avellar. Proposta de um Recomendador para Sistemas de Recomendação utilizando uma arquitetura SaaS e Multi-Tenant. Universidade Federal Rural do Rio de Janeiro.
 
-- Livia de Azevedo. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Livia de Azevedo. Uma análise empírica do efeito do Ruído de Classe no aprendizado de Redes Neurais Artificiais. Universidade Federal Rural do Rio de Janeiro.
 
-- Beatriz Lima e Ingrid Costa. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Beatriz Lima e Ingrid Costa. Sistema de monitoramento de atividades de crianças no Twitter. Universidade Federal Rural do Rio de Janeiro.
 
 - Paula Rodrigues Madeira e Thalia Ferreira Pinto. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
 
-- José Lucas Alves Gomes. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Leandro Bataglia Pereira. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+
+- João Pedro Ribeiro de Moura. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+
+- Leandro Silva Sales. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+
+- Lucas Nunes Dalbonio de Carvalor. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
 
 ### Concluídas {#projetosfinais}
 
-- Fábio Júnior Miranda dos Santos e Vitor Gusmão Loura. Super Resolução: um estudo da Enhanced Super Resolution GAN. 2021. Universidade Federal Rural do Rio de Janeiro.
+- José Lucas Alves Gomes. [Classificação Automática de Anomalia em Vídeo Independente de Contexto](https://www.cc.ufrrj.br/wp-content/uploads/2021/12/TCC___Jose_Lucas1.pdf). 2021. Universidade Federal Rural do Rio de Janeiro.
+
+- Fábio Júnior Miranda dos Santos e Vitor Gusmão Loura. [Super Resolução: um estudo da Enhanced Super Resolution GAN](http://188.166.53.186/Projeto_Final_Fabio_e_Vitor.pdf). 2021. Universidade Federal Rural do Rio de Janeiro.
 
 - Victor Diniz A. Andrade. [Detecção Automática de Discurso de Ódio em Textos do Twitter](https://www.cc.ufrrj.br/wp-content/uploads/2018/07/Trabalho_de_Conclus_o_de_Curso___Victor_Diniz1-compactado.pdf). 2021. Universidade Federal Rural do Rio de Janeiro.
 
@@ -117,7 +125,7 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Paulo Francisco Da S. Freitas e Vinícius Gomes S. Ayres. [NeuralCF.jl: Modelos Neurais para Filtragem Colaborativa](https://www.cc.ufrrj.br/wp-content/uploads/2020/04/TCC___Vinicius_Ayres_e_Paulo_Francisco-4.pdf). 2019. Universidade Federal Rural do Rio de Janeiro. 
 
-- Marcus Vinicius Carvalho Martins. Um modelo para previsão de resultados em partidas do Campeonato Brasileiro de Futebol. 2018. Universidade Federal Rural do Rio de Janeiro. 
+- Marcus Vinicius Carvalho Martins. [Um modelo para previsão de resultados em partidas do Campeonato Brasileiro de Futebol](https://www.cc.ufrrj.br/wp-content/uploads/2021/12/Marcus_Vinicius___TCC_UFRRJ1.pdf). 2018. Universidade Federal Rural do Rio de Janeiro. 
 
 - Paulo Roberto Xavier Júnior. [ContextCF.jl: Um Framework para CARS em Filtragem Colaborativa](https://www.cc.ufrrj.br/wp-content/uploads/2018/07/TCC-FINAL.pdf). 2018. Universidade Federal Rural do Rio de Janeiro.
 
@@ -127,9 +135,9 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Jones Marques Augusto. [Recsys.jl: Um framework para geração e avaliação de listas de recomendação](https://www.cc.ufrrj.br/wp-content/uploads/2018/07/Jones___TCC_UFRRJ1.pdf). 2016. Universidade Federal Rural do Rio de Janeiro. 
 
-- Kleyton Pontes Cotta. Ferramenta de Detecção de Conflitos e Gestão para o Timetabling Problem. 2014. Universidade Federal Rural do Rio de Janeiro. 
+- Kleyton Pontes Cotta. [Ferramenta de Detecção de Conflitos e Gestão para o Timetabling Problem](https://www.cc.ufrrj.br/wp-content/uploads/2021/12/TCC-Kleyton-Pontes-Cotta1.pdf). 2014. Universidade Federal Rural do Rio de Janeiro. 
 
-- Fabio Perrotta de Andrade e Pedro Henrique Conilh de Beyssa. TirinhaZ - Um Sistema de Recomendação de Tirinhas. 2013. Universidade Federal do Rio de Janeiro.
+- Fabio Perrotta de Andrade e Pedro Henrique Conilh de Beyssa. [TirinhaZ - Um Sistema de Recomendação de Tirinhas](http://188.166.53.186/monografia_fabio_pedro.pdf). 2013. Universidade Federal do Rio de Janeiro
 
 ## Agendamento da Orientação  {#agendamento}
 
