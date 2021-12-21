@@ -34,7 +34,7 @@ O aluno deverá cursar certas disciplinas para a elaboração do projeto final e
 - Sistemas de Recomendação:
   - *Inteligência Artificial*
   - **Aprendizado de Máquina**
-  - **Introdução à Sistemas de Recomendação**
+  - [**Introdução à Sistemas de Recomendação**](courses/recsys.md)
   
 - Processamento de Linguagem Natural:
   - *Inteligência Artificial*
@@ -46,8 +46,8 @@ O aluno deverá cursar certas disciplinas para a elaboração do projeto final e
   - **Mineração de Dados** ou **Aprendizado de Máquina**
 
 - Projeto de Sistemas:
-  - **Programação Web**
-  - **Projeto de Sistemas**
+  - [*Modelagem e Projeto de Software*](courses/modelagem.md)
+  - [**Programação Web**](courses/web.md)
 
 Legenda: **Negrito** - obrigatórias; *Itálico* - optativas.
 
