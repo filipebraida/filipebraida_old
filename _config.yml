@@ -25,7 +25,7 @@ navbar-links:
     - Linguagens de Programação: "/pages/courses/lp"
     - Compiladores: "/pages/courses/compiladores"
     - Programação Estruturada: "/pages/courses/pe"
-    - Programação Web: "/pages/courses/web"
+    - Programação para Web: "/pages/courses/web"
     - Sistemas de Recomendação: "/pages/courses/recsys"
     - Modelagem e Projetos de Software: "/pages/courses/modelagem"
   Pesquisa: "/pages/research"
@@ -214,6 +214,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+
+exclude: [vendor]
 
 # prose.io config
 prose:
