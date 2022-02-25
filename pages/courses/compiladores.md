@@ -30,6 +30,7 @@ Ao final da disciplina o aluno deve:
 8. [Código Intermedíario](#codigo)
 9. [Analisador Sintático Descendente](#descendente)
 10. [Analisador Sintático Ascendente](#ascendente)
+10. [Construção de um Compilador](#construcao)
 
 ### Tópicos de Aula
 
@@ -42,6 +43,10 @@ Ao final da disciplina o aluno deve:
 - Evolução das LPs
 - Fundamentos da LP
 
+##### Materiais
+
+- {% include youtube.html id='u8Fw4_Ty2Es' name='Visão Geral de um Compilador (video)' %}
+
 #### 02. Análise Léxica {#lexico}
 
 ##### Conteúdo
@@ -53,6 +58,10 @@ Ao final da disciplina o aluno deve:
 - Expressões Regulares
 - Definições Regulares
 - Extensões de ERs
+
+##### Materiais
+
+- {% include youtube.html id='Hx4vrxeLU90' name='Análise Léxica (video)' %}
 
 #### 03. Autômatos Finitos {#automato}
 
@@ -69,6 +78,10 @@ Ao final da disciplina o aluno deve:
 - Construção de Subconjunto
 - Minimização de Estados
 
+##### Materiais
+
+- {% include youtube.html id='NCSumaS-g-w' name='Autômatos Finitos (video)' %}
+
 #### 04. Flex/Lex {#lex}
 
 ##### Conteúdo
@@ -78,6 +91,10 @@ Ao final da disciplina o aluno deve:
 - Especificações da entrada
 - Definições, Regras e Padrões
 - Regras de Matching
+
+##### Materiais
+
+- {% include youtube.html id='c9WLbVZ5T3w' name='Flex (e Lex) (video)' %}
 
 #### 05. Scanners {#scanners}
 
@@ -104,7 +121,11 @@ Ao final da disciplina o aluno deve:
 - Ambiguidade
 - Análise Léxica vs Sintática
 
-#### 07. Yacc/Bison {#yacc}
+##### Materiais
+
+- {% include youtube.html id='h5RsbIGCzFg' name='Análise Sintática (video)' %}
+
+#### 07. YACC/Bison {#yacc}
 
 ##### Conteúdo
 
@@ -114,6 +135,10 @@ Ao final da disciplina o aluno deve:
 - Declarações
 - Regras de Produção
 
+##### Materiais
+
+- {% include youtube.html id='ATW-mq0ahaA' name='Bison (e YACC) (video)' %}
+
 #### 08. Código Intermedíario {#codigo}
 
 ##### Conteúdo
@@ -122,6 +147,10 @@ Ao final da disciplina o aluno deve:
 - Linguagem de três endereços
 - Especificações
 - Comandos
+
+##### Materiais
+
+- {% include youtube.html id='xLqb5RqXANQ' name='Geração de Código Intermediário (video)' %}
 
 #### 09. Analisador Sintático Descendente {#descendente}
 
@@ -147,6 +176,28 @@ Ao final da disciplina o aluno deve:
 - Itens Canônicos
 - Autômato LR(0)
 - Tabela de Análise SLR
+
+#### 11. Construção de um Compilador {#construcao}
+
+##### Conteúdo
+
+- Declaração
+- Tipo de dados primitivos
+- String
+- Matrizes
+- Expressões
+- Operadores
+- Comandos 
+- Escopo
+- Blocos
+- Mecanismos de Controle de Laços
+- Detecção de Erros
+- Subprograma
+
+##### Materiais
+
+- {% include youtube.html id='FmR3p1-tzoc' name='Construindo o Primeiro Compilador (video)' %}
+- {% include youtube.html id='mJM5KavdynM' name='Etapas do Trabalho de Compiladores (video)' %}
 
 ## Referência Bibliográfica
 
