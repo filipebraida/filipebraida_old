@@ -115,7 +115,7 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Daniel Souza Avellar. [Uma proposta de um Sistema de Recomendação como Serviço](https://www.cc.ufrrj.br/wp-content/uploads/2022/06/TCC___Daniel_Avellar_final.pdf). 2022. Universidade Federal Rural do Rio de Janeiro.
 
-- Lívia de Azevedo da Silva. [Uma análise empírica do efeito do Ruído de Classe no aprendizado de Redes Neurais Artificiais](). 2022. Universidade Federal Rural do Rio de Janeiro.
+- Lívia de Azevedo da Silva. [Uma análise empírica do efeito do Ruído de Classe no aprendizado de Redes Neurais Artificiais](https://www.cc.ufrrj.br/wp-content/uploads/2022/06/TCC_Livia_de_Azevedo_sem_sipac.pdf). 2022. Universidade Federal Rural do Rio de Janeiro.
 
 - Beatriz Silva Lima e Ingrid Cardin da Costa. [Sistema WEB de Monitoramento de Textos em Redes Sociais](https://www.cc.ufrrj.br/wp-content/uploads/2022/06/TCC___Beatriz_e_Ingrid.pdf). 2022. Universidade Federal Rural do Rio de Janeiro.
 
