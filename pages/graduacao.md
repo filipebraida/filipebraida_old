@@ -95,21 +95,21 @@ Nas próximas subseções serão listados os alunos com o projeto final em andam
 
 - Fellipe Bravo R. Pimentel e Gabriel de O. Segobia. Sistema de Gerenciamento de Anotações. Universidade Federal Rural do Rio de Janeiro.
 
-- Daniel Souza Avellar. Proposta de um Recomendador para Sistemas de Recomendação utilizando uma arquitetura SaaS e Multi-Tenant. Universidade Federal Rural do Rio de Janeiro.
+- Paula Rodrigues Madeira e Thalia Ferreira Pinto. Sistema para Avaliação de Professores. Universidade Federal Rural do Rio de Janeiro.
 
-- Livia de Azevedo. Uma análise empírica do efeito do Ruído de Classe no aprendizado de Redes Neurais Artificiais. Universidade Federal Rural do Rio de Janeiro.
+- Leandro Bataglia Pereira e João Pedro Ribeiro de Moura. Sistema para Alumni. Universidade Federal Rural do Rio de Janeiro.
 
-- Beatriz Lima e Ingrid Costa. Sistema de monitoramento de atividades de crianças no Twitter. Universidade Federal Rural do Rio de Janeiro.
+- Leandro Silva Sales. Sistema de Correção Ortográfica de Texto. Universidade Federal Rural do Rio de Janeiro.
 
-- Paula Rodrigues Madeira e Thalia Ferreira Pinto. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Lucas Nunes Dalbonio de Carvalor. Sistema de Gerenciamento de Serviços de Aprendizado de Máquina. Universidade Federal Rural do Rio de Janeiro.
 
-- Leandro Bataglia Pereira. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Pedro Conrado de Faria Machado. Estudo de Arquitetura de Filas. Universidade Federal Rural do Rio de Janeiro.
 
-- João Pedro Ribeiro de Moura. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Julia dos Santos Bartolo. Estudo sobre Detecção de Anomalia em Vídeo. Universidade Federal Rural do Rio de Janeiro.
 
-- Leandro Silva Sales. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Eric Bernard Pereira Moura Brasil e Sérgio Felipe Rezende. Definição do Tema. Universidade Federal Rural do Rio de Janeiro.
 
-- Lucas Nunes Dalbonio de Carvalor. Definição do tema. Universidade Federal Rural do Rio de Janeiro.
+- Ana Luiza Magalhães e Lucas Montijo. Definição do Tema. Universidade Federal Rural do Rio de Janeiro.
 
 ### Concluídas {#projetosfinais}
 
